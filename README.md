@@ -1,7 +1,7 @@
 # TEAM
-Visibility and interaction with team members, sudo-modules and logs
+Repo for public visibility and interaction with team members; member specific sudo-modules and logs
 
-TEAM members 
+TEAM members `incomplete`
 | Name | Batch | Team | Handle | Logs | 
 |---|---|---|---|--|
 | Shubhadeep Sarkar | 24 | CORE, S/W DEV, TECH | [LuciusPertis](https://github.com/LuciusPertis) | |
